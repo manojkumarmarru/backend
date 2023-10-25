@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="15.675">
+ <testsuite name="Destination not present " timestamp="2019-01-17T17:36:22" hostname="localhost" time="1.128" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Destination not present .GET /" timestamp="2019-01-17T17:36:22" hostname="localhost" time="1.096" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Destination not present .GET /" name="Kerala is not present in packages" time="1.089" />
+ </testsuite>
+ <testsuite name=" hotDeals return array " timestamp="2019-01-17T17:36:23" hostname="localhost" time="1.077" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname=" hotDeals return array " name="Test Case3" time="1.076" />
+ </testsuite>
+ <testsuite name="GET for reterive booking" timestamp="2019-01-17T17:36:24" hostname="localhost" time="1.038" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="GET for reterive booking" name="For Correct input and getting correct output" time="1.036" />
+ </testsuite>
+ <testsuite name=" invalid contact number " timestamp="2019-01-17T17:36:25" hostname="localhost" time="5.1" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname=" invalid contact number " name="Test Case2" time="1.021" />
+  <testcase classname=" invalid contact number " name="Test Case5 Correct password" time="2.036" />
+  <testcase classname=" invalid contact number " name="Test Case1" time="1.026" />
+  <testcase classname=" invalid contact number " name="Test Case3 getting password" time="1.016" />
+ </testsuite>
+ <testsuite name="GET for reterive booking" timestamp="2019-01-17T17:36:30" hostname="localhost" time="1.043" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="GET for reterive booking" name="For Correct input" time="1.042" />
+ </testsuite>
+ <testsuite name="GET for reterive booking" timestamp="2019-01-17T17:36:31" hostname="localhost" time="1.036" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="GET for reterive booking" name="For  Incorrect input" time="1.035" />
+ </testsuite>
+ <testsuite name=" hotDeals return array " timestamp="2019-01-17T17:36:32" hostname="localhost" time="1.025" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname=" hotDeals return array " name="Test Case2" time="1.023" />
+ </testsuite>
+ <testsuite name="Destination search using url" timestamp="2019-01-17T17:36:33" hostname="localhost" time="1.05" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Destination search using url.GET /" timestamp="2019-01-17T17:36:33" hostname="localhost" time="1.05" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Destination search using url.GET /" name="Egypt is present in packages" time="1.049" />
+ </testsuite>
+ <testsuite name=" hotDeals return array of 3 hotdeals available " timestamp="2019-01-17T17:36:34" hostname="localhost" time="1.032" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname=" hotDeals return array of 3 hotdeals available " name="Test Case1" time="1.031" />
+ </testsuite>
+</testsuites>
+
